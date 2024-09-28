@@ -1,0 +1,21 @@
+.container {
+    width: fit-content;
+    margin: 0 auto;
+    background: #e1e5f2;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+    border-radius: 10px;
+  box-shadow: 10px 10px 30px #8d8ae715, -10px -10px 30px #9588eb28;
+
+}
+
+
+.container button {
+    background: #1f7a8c;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    width: 36px;
+}
